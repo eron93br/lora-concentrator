@@ -6,6 +6,8 @@ This library mostly exposes the functions defined by LMIC, it makes no attempt t
 
 This library requires Arduino IDE version 1.6.6 or above, since it requires C99 mode to be enabled by default.
 
+The main changes were done in the [lorabase.h](https://github.com/eron93br/lora-concentrator/blob/master/src/lmic/lorabase.h) file.
+
 License
 -------
 Most source files in this repository are made available under the

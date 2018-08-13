@@ -26,6 +26,11 @@ Setup based on Raspbian image
 --------
 Follow these instructions
 
+Regulations
+--------
+- [LoRaWAN Frequency Plans and Regulations by Country](https://www.thethingsnetwork.org/docs/lorawan/frequencies-by-country.html)
+- [The Things Network Fair Access Policy](https://www.thethingsnetwork.org/forum/t/limitations-data-rate-packet-size-30-seconds-uplink-and-10-messages-downlink-per-day-fair-access-policy/1300)
+
 LICENSE
 --------
 to-do

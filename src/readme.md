@@ -16,7 +16,7 @@ For example, this could look like this:
 	    .dio = {2, 3, 4},
 	};
   
- For a specific list of boards and their pinout check out [this]() page.
+ For a specific list of boards and their pinout check out [this](https://github.com/eron93br/lora-concentrator/blob/master/doc/boards-list.md) page.
  
 License
 -------

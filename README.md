@@ -33,4 +33,8 @@ Regulations
 
 LICENSE
 --------
-to-do
+The source files in this repository are made available under the following licenses:
+- LoRa packet forwarder and LoRa gateway are available under [this license](https://github.com/Lora-net/lora_gateway/blob/master/LICENSE).
+- The edited LMIC library is available under the Eclipse Public License v1.0.
+
+Eclipse Public License v1.0, except for the base64 implementation, that has been copied from the Semtech Packet Forwader.

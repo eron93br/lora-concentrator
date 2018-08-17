@@ -24,7 +24,7 @@ Software setup
 
 Setup based on Raspbian image
 --------
-Follow these instructions
+Follow [these](https://github.com/eron93br/lora-concentrator/blob/master/doc/raspberry.md) instructions to create your SD card image, then install [SEMTECH](https://github.com/eron93br/lora-concentrator/blob/master/doc/software.md) packages. Set up your hardware following [this](https://github.com/eron93br/lora-concentrator/blob/master/doc/pin-connection.md) pin connection and finally [register](https://www.thethingsnetwork.org/docs/gateways/registration.html) your gateway at TTN!
 
 Regulations
 --------

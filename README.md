@@ -6,7 +6,7 @@ The objective is to build a LoRaWAN multichannel gateway based on the SEMTECH Pa
 Gateway Features
 --------
 - Listen on configurable frequency and spreading factor
-- Support to all spreading factors (SF7 to SF12)
+- Supporting Spreading Factors SF7 to SF10 
 - Uplink and downlink messages
 
 Hardware components 
@@ -20,6 +20,7 @@ Hardware components
 Software setup
 --------
 - Raspbian Lite image on the SD Card
+- Lora Gateway and Packet Forwarder installation 
 - The Things Network gateway registration 
 
 Setup based on Raspbian image
